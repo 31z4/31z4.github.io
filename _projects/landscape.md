@@ -15,4 +15,6 @@ featured_image: '/images/portfolio/landscape/001.jpg'
     <img src="/images/portfolio/landscape/008.jpg">
     <img src="/images/portfolio/landscape/009.jpg">
     <img src="/images/portfolio/landscape/010.jpg">
+    <img src="/images/portfolio/landscape/011.jpg">
+    <img src="/images/portfolio/landscape/012.jpg">
 </div>

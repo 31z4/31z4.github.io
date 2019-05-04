@@ -1,7 +1,7 @@
 ---
 title: 'People'
 subtitle: 'Strangers, friends and family'
-featured_image: '/images/portfolio/people/001.jpg'
+featured_image: '/images/portfolio/people/022.jpg'
 ---
 
 <div class="gallery" data-columns="3">
@@ -23,4 +23,10 @@ featured_image: '/images/portfolio/people/001.jpg'
 	<img src="/images/portfolio/people/016.jpg">
 	<img src="/images/portfolio/people/017.jpg">
 	<img src="/images/portfolio/people/018.jpg">
+	<img src="/images/portfolio/people/019.jpg">
+	<img src="/images/portfolio/people/020.jpg">
+	<img src="/images/portfolio/people/021.jpg">
+	<img src="/images/portfolio/people/022.jpg">
+	<img src="/images/portfolio/people/023.jpg">
+	<img src="/images/portfolio/people/024.jpg">
 </div>
