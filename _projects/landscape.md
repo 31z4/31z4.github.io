@@ -1,7 +1,7 @@
 ---
 title: 'Landscape'
 subtitle: 'Cities and nature'
-featured_image: '/images/portfolio/landscape/001.jpg'
+featured_image: '/images/portfolio/landscape/013.jpg'
 ---
 
 <div class="gallery" data-columns="3">
@@ -17,4 +17,5 @@ featured_image: '/images/portfolio/landscape/001.jpg'
     <img src="/images/portfolio/landscape/010.jpg">
     <img src="/images/portfolio/landscape/011.jpg">
     <img src="/images/portfolio/landscape/012.jpg">
+    <img src="/images/portfolio/landscape/013.jpg">
 </div>

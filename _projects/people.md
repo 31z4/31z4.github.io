@@ -29,4 +29,5 @@ featured_image: '/images/portfolio/people/022.jpg'
 	<img src="/images/portfolio/people/022.jpg">
 	<img src="/images/portfolio/people/023.jpg">
 	<img src="/images/portfolio/people/024.jpg">
+	<img src="/images/portfolio/people/025.jpg">
 </div>
