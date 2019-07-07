@@ -128,7 +128,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  ajax_loading: false
+  ajax_loading: true
   analytics_code: >
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127037785-2"></script>
     <script>
