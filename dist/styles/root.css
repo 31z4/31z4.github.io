@@ -1,2 +1,17 @@
 @import url("vendor/modern-normalize.min.css");
 @import url("vendor/prism.css");
+
+body {
+    max-width: 80ch;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+nav {
+    margin-bottom: 3rem;
+    word-spacing: 0.5rem;
+}
+
+nav a {
+    text-decoration: none;
+}
