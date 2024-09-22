@@ -1,2 +1,2 @@
-@import "modern-normalize.min.css";
-@import "prism.css";
+@import url("vendor/modern-normalize.min.css");
+@import url("vendor/prism.css");
