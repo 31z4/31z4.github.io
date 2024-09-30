@@ -3,6 +3,10 @@ layout: layout.liquid
 title: 31z4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi! My name is Elisei Zanko, also known as `31z4` or `e1z4` on systems that don't allow starting names from a number.
+
+I am a solopreneur and an Open Source maintainer. I've been into programming and computers since 1999. I love sports, photography, and being outside, especially with my family and friends.
+
+Most of the time, I write about technical stuff here. Sometimes, I post my photographs.
 
 ## Recent Posts
