@@ -1,0 +1,28 @@
+---
+layout: layout.liquid
+title: 31z4
+---
+<p>
+  Hi! My name is Elisei Zanko, also known as <code>31z4</code> or <code>e1z4</code> on systems that don't allow starting
+  names from a number.
+</p>
+
+<p>
+  I am a solopreneur and an Open Source maintainer. I've been into programming and computers since 1999. I love sports,
+  photography, and being outside, especially with my family and friends.
+</p>
+
+<p>Most of the time, I write about technical stuff here. Sometimes, I post my photographs.</p>
+
+<h2>Recent Posts</h2>
+
+<table>
+  {%- for post in collections.post reversed -%}
+    <tr>
+      <td>{{ post.page.date | date }}</td>
+      <td>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </td>
+    </tr>
+  {%- endfor -%}
+</table>

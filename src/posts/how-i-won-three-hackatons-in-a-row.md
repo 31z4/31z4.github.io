@@ -1,9 +1,13 @@
 ---
 layout: layout.liquid
 title: How I Won Three Hackathons in a Row
+tags: post
+date: 2024-10-02
 ---
 
 ## {{ title }}
+
+_{{ page.date | date }}_
 
 From June 2023 to March 2024, I participated in three hackathons as a solo hacker and took prizes in all three. In this post, I share my thoughts on what I believe have been the main drivers of my success.
 
@@ -24,7 +28,7 @@ My motivation for the third project was learning about blockchain scaling soluti
 **I was laser-focused on shipping a minimum viable product**
 
 I aimed to ship from day one.
-I often asked myself, _"What's the minimum amount of engineering required to implement the very initial version of the feature `X`? What can I not do to narrow the scope of work?"_
+I often asked myself, "What's the minimum amount of engineering required to implement the very initial version of the feature `X`? What can I _not do_ to narrow the scope of work?"
 And then, on every iteration, I strived to have something working and available for others to try.
 It balanced my perfectionism, protected me from over-engineering, and helped me gather feedback early.
 
