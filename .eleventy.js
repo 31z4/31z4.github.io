@@ -4,7 +4,9 @@ import { DateTime } from 'luxon'
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight)
   eleventyConfig.addPassthroughCopy('src/styles')
-  eleventyConfig.addFilter('date', (date) => DateTime.fromJSDate(date).toLocaleString(DateTime.DATE_MED))
+
+  eleventyConfig.addFilter('localeDate', (date) => DateTime.fromJSDate(date).toLocaleString(DateTime.DATE_MED))
+  eleventyConfig.addFilter('date', (date) => DateTime.fromJSDate(date).toFormat('yyyy-MM-dd'))
 
   return {
     dir: {
