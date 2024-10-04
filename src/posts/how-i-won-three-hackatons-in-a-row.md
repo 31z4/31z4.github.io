@@ -37,7 +37,7 @@ It's hard to overestimate the benefits of interacting with the community and you
 **I worked almost full-time**
 
 As a solopreneur, I had the luxury of dedicating most of my work time to a hackathon project.
-This way, I had time to research technology and tools relevant to my project and time to build a product that was looking good enough.
+This way, I had time to research technology and tools relevant to my project and time to build a product that looked good enough.
 
 Yet maintaining motivation and focus was a bit of a challenge for one hackathon that lasted a month. Having a break and switching to other projects for a few days helped me finish and submit.
 
