@@ -19,3 +19,13 @@ a {
 time {
     color: gray;
 }
+
+table.posts {
+    width: 100%;
+
+    td:nth-child(2) {
+        vertical-align: text-top;
+        text-align: right;
+        width: 13ch;
+    }
+}

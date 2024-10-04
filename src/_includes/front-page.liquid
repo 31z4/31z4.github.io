@@ -3,18 +3,17 @@ layout: main.liquid
 title: 31z4
 ---
 {{ content }}
-
 <section>
   <h2>Recent Posts</h2>
 
-  <table>
+  <table class="posts">
     {%- for post in collections.post reversed -%}
       <tr>
         <td>
-          <time datetime="{{ post.page.date | date }}">{{ post.page.date | localeDate }}</time>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
         </td>
         <td>
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          <time datetime="{{ post.page.date | date }}">{{ post.page.date | localeDate }}</time>
         </td>
       </tr>
     {%- endfor -%}
