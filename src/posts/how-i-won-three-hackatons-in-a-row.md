@@ -1,13 +1,9 @@
 ---
-layout: layout.liquid
+layout: post.liquid
 title: How I Won Three Hackathons in a Row
 tags: post
 date: 2024-10-02
 ---
-
-## {{ title }}
-
-_{{ page.date | localeDate }}_
 
 From June 2023 to March 2024, I participated in three hackathons as a solo hacker and took prizes in all three. In this post, I share my thoughts on what I believe have been the main drivers of my success.
 
