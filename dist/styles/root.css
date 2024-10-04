@@ -12,6 +12,10 @@ nav {
     word-spacing: 0.5rem;
 }
 
-nav a {
+a {
     text-decoration: none;
+}
+
+time {
+    color: gray;
 }
