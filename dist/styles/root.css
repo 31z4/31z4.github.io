@@ -12,6 +12,13 @@ nav {
     word-spacing: 0.5rem;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 a {
     text-decoration: none;
 }

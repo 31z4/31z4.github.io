@@ -9,4 +9,4 @@ photography, and being outside, especially with my family and friends.
 
 Most of the time, I write about technical stuff here. Sometimes, I post my photographs.
 
-I currently work on [mintee.app](https://mintee.app) – a minimalist time tracker.
+I currently work on [mintee](https://mintee.app) – a minimalist time tracking app.
