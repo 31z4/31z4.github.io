@@ -27,6 +27,18 @@ time {
     color: gray;
 }
 
+figcaption {
+    color: gray;
+    text-align: center;
+    font-size: small;
+    margin-bottom: 2rem;
+
+    a {
+        text-decoration: underline;
+        color: gray;
+    }
+}
+
 table.posts {
     width: 100%;
 
